@@ -1,1 +1,5 @@
-测试
+注意：
+
+如果桌面没有 mumu_auto_keep_recode 这个名字的目录，会自动创建，里面放的是留存打开的记录。（vm_delete_record.json）（vm_null_delete_record.json）
+
+如果当前电脑的当前 mumu模拟器 之前有留存记录vm_delete_record.json，建议跑脚本前手动在桌面创建mumu_auto_keep_recode，并放入vm_delete_record.json。
