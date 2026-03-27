@@ -1,0 +1,9 @@
+MUMU_TOOL="/tmp/com.netease.mumu.nemux-global/mumutool"
+ORIGIN_INDEX=0
+APK_URL="https://dingying.sbs/sptwo.html"        # 链接地址
+GROUP_COUNT=7         # 总共x组
+INNER_LOOP=5        # 每组内循环x次
+TIME_OUT=60        # 下载等待时间
+BASE_DEVICE_NAME="BD-103FB-MB"        # 初始模拟器名称
+CUSTOM_DEVICE_NAME="BD 9"     # 自定义前缀，将会自动带上日期时间
+STATS_API_URL="https://fuyanzi.sbs/api/counter.php"     # 统计上报接口
